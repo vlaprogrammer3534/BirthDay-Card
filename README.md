@@ -11,7 +11,7 @@ This project features a **Birthday Card** design, built with HTML, CSS, and Java
 ## Demo
 
 Check out the live demo of the Birthday Card:  
-[Demo Link](https://your-deployed-project-link.com)
+[Demo Link](https://vlaprogrammer3534.github.io/BirthDay-Card/)
 
 ## Technologies Used
 
